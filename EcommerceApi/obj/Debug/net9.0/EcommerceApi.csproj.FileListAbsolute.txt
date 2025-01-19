@@ -1,0 +1,978 @@
+E:\4\EcommerceApi\bin\Debug\net9.0\appsettings.Development.json
+E:\4\EcommerceApi\bin\Debug\net9.0\appsettings.json
+E:\4\EcommerceApi\bin\Debug\net9.0\EcommerceApi.staticwebassets.runtime.json
+E:\4\EcommerceApi\bin\Debug\net9.0\EcommerceApi.staticwebassets.endpoints.json
+E:\4\EcommerceApi\bin\Debug\net9.0\EcommerceApi.exe
+E:\4\EcommerceApi\bin\Debug\net9.0\EcommerceApi.deps.json
+E:\4\EcommerceApi\bin\Debug\net9.0\EcommerceApi.runtimeconfig.json
+E:\4\EcommerceApi\bin\Debug\net9.0\EcommerceApi.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\EcommerceApi.pdb
+E:\4\EcommerceApi\bin\Debug\net9.0\Azure.Core.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\Azure.Identity.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\Humanizer.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\Newtonsoft.Json.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\System.ClientModel.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\System.CodeDom.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\System.Memory.Data.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\4\EcommerceApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\4\EcommerceApi\obj\Debug\net9.0\EcommerceApi.csproj.AssemblyReference.cache
+E:\4\EcommerceApi\obj\Debug\net9.0\EcommerceApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\4\EcommerceApi\obj\Debug\net9.0\EcommerceApi.AssemblyInfoInputs.cache
+E:\4\EcommerceApi\obj\Debug\net9.0\EcommerceApi.AssemblyInfo.cs
+E:\4\EcommerceApi\obj\Debug\net9.0\EcommerceApi.csproj.CoreCompileInputs.cache
+E:\4\EcommerceApi\obj\Debug\net9.0\EcommerceApi.MvcApplicationPartsAssemblyInfo.cs
+E:\4\EcommerceApi\obj\Debug\net9.0\EcommerceApi.MvcApplicationPartsAssemblyInfo.cache
+E:\4\EcommerceApi\obj\Debug\net9.0\scopedcss\bundle\EcommerceApi.styles.css
+E:\4\EcommerceApi\obj\Debug\net9.0\staticwebassets.build.json
+E:\4\EcommerceApi\obj\Debug\net9.0\staticwebassets.development.json
+E:\4\EcommerceApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\4\EcommerceApi\obj\Debug\net9.0\staticwebassets\msbuild.EcommerceApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\4\EcommerceApi\obj\Debug\net9.0\staticwebassets\msbuild.EcommerceApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\4\EcommerceApi\obj\Debug\net9.0\staticwebassets\msbuild.build.EcommerceApi.props
+E:\4\EcommerceApi\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.EcommerceApi.props
+E:\4\EcommerceApi\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.EcommerceApi.props
+E:\4\EcommerceApi\obj\Debug\net9.0\staticwebassets.pack.json
+E:\4\EcommerceApi\obj\Debug\net9.0\Ecommerc.C9AF1851.Up2Date
+E:\4\EcommerceApi\obj\Debug\net9.0\EcommerceApi.dll
+E:\4\EcommerceApi\obj\Debug\net9.0\refint\EcommerceApi.dll
+E:\4\EcommerceApi\obj\Debug\net9.0\EcommerceApi.pdb
+E:\4\EcommerceApi\obj\Debug\net9.0\EcommerceApi.genruntimeconfig.cache
+E:\4\EcommerceApi\obj\Debug\net9.0\ref\EcommerceApi.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\appsettings.Development.json
+E:\5\EcommerceApi\bin\Debug\net9.0\appsettings.json
+E:\5\EcommerceApi\bin\Debug\net9.0\EcommerceApi.staticwebassets.runtime.json
+E:\5\EcommerceApi\bin\Debug\net9.0\EcommerceApi.staticwebassets.endpoints.json
+E:\5\EcommerceApi\bin\Debug\net9.0\EcommerceApi.exe
+E:\5\EcommerceApi\bin\Debug\net9.0\EcommerceApi.deps.json
+E:\5\EcommerceApi\bin\Debug\net9.0\EcommerceApi.runtimeconfig.json
+E:\5\EcommerceApi\bin\Debug\net9.0\EcommerceApi.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\EcommerceApi.pdb
+E:\5\EcommerceApi\bin\Debug\net9.0\Azure.Core.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\Azure.Identity.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\Humanizer.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\Newtonsoft.Json.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\System.ClientModel.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\System.CodeDom.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\System.Memory.Data.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\5\EcommerceApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\5\EcommerceApi\obj\Debug\net9.0\EcommerceApi.csproj.AssemblyReference.cache
+E:\5\EcommerceApi\obj\Debug\net9.0\EcommerceApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\5\EcommerceApi\obj\Debug\net9.0\EcommerceApi.AssemblyInfoInputs.cache
+E:\5\EcommerceApi\obj\Debug\net9.0\EcommerceApi.AssemblyInfo.cs
+E:\5\EcommerceApi\obj\Debug\net9.0\EcommerceApi.csproj.CoreCompileInputs.cache
+E:\5\EcommerceApi\obj\Debug\net9.0\EcommerceApi.MvcApplicationPartsAssemblyInfo.cs
+E:\5\EcommerceApi\obj\Debug\net9.0\EcommerceApi.MvcApplicationPartsAssemblyInfo.cache
+E:\5\EcommerceApi\obj\Debug\net9.0\scopedcss\bundle\EcommerceApi.styles.css
+E:\5\EcommerceApi\obj\Debug\net9.0\staticwebassets.build.json
+E:\5\EcommerceApi\obj\Debug\net9.0\staticwebassets.development.json
+E:\5\EcommerceApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\5\EcommerceApi\obj\Debug\net9.0\staticwebassets\msbuild.EcommerceApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\5\EcommerceApi\obj\Debug\net9.0\staticwebassets\msbuild.EcommerceApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\5\EcommerceApi\obj\Debug\net9.0\staticwebassets\msbuild.build.EcommerceApi.props
+E:\5\EcommerceApi\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.EcommerceApi.props
+E:\5\EcommerceApi\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.EcommerceApi.props
+E:\5\EcommerceApi\obj\Debug\net9.0\staticwebassets.pack.json
+E:\5\EcommerceApi\obj\Debug\net9.0\Ecommerc.C9AF1851.Up2Date
+E:\5\EcommerceApi\obj\Debug\net9.0\EcommerceApi.dll
+E:\5\EcommerceApi\obj\Debug\net9.0\refint\EcommerceApi.dll
+E:\5\EcommerceApi\obj\Debug\net9.0\EcommerceApi.pdb
+E:\5\EcommerceApi\obj\Debug\net9.0\EcommerceApi.genruntimeconfig.cache
+E:\5\EcommerceApi\obj\Debug\net9.0\ref\EcommerceApi.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\EcommerceApi.exe
+E:\66\EcommerceApi\bin\Debug\net9.0\EcommerceApi.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\appsettings.Development.json
+E:\66\EcommerceApi\bin\Debug\net9.0\appsettings.json
+E:\66\EcommerceApi\bin\Debug\net9.0\EcommerceApi.staticwebassets.runtime.json
+E:\66\EcommerceApi\bin\Debug\net9.0\EcommerceApi.staticwebassets.endpoints.json
+E:\66\EcommerceApi\bin\Debug\net9.0\Azure.Core.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\Azure.Identity.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\Humanizer.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\Newtonsoft.Json.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\System.ClientModel.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\System.CodeDom.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\System.Memory.Data.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\66\EcommerceApi\obj\Debug\net9.0\EcommerceApi.csproj.AssemblyReference.cache
+E:\66\EcommerceApi\obj\Debug\net9.0\EcommerceApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\66\EcommerceApi\obj\Debug\net9.0\EcommerceApi.AssemblyInfoInputs.cache
+E:\66\EcommerceApi\obj\Debug\net9.0\EcommerceApi.AssemblyInfo.cs
+E:\66\EcommerceApi\obj\Debug\net9.0\EcommerceApi.csproj.CoreCompileInputs.cache
+E:\66\EcommerceApi\obj\Debug\net9.0\EcommerceApi.MvcApplicationPartsAssemblyInfo.cs
+E:\66\EcommerceApi\obj\Debug\net9.0\EcommerceApi.MvcApplicationPartsAssemblyInfo.cache
+E:\66\EcommerceApi\obj\Debug\net9.0\scopedcss\bundle\EcommerceApi.styles.css
+E:\66\EcommerceApi\obj\Debug\net9.0\compressed\ivfctrvdmv-es6jc3htb9.gz
+E:\66\EcommerceApi\obj\Debug\net9.0\compressed\1tlj3jrtxz-zfrqedqh08.gz
+E:\66\EcommerceApi\obj\Debug\net9.0\staticwebassets.build.json
+E:\66\EcommerceApi\obj\Debug\net9.0\staticwebassets.development.json
+E:\66\EcommerceApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\66\EcommerceApi\obj\Debug\net9.0\staticwebassets\msbuild.EcommerceApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\66\EcommerceApi\obj\Debug\net9.0\staticwebassets\msbuild.EcommerceApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\66\EcommerceApi\obj\Debug\net9.0\staticwebassets\msbuild.build.EcommerceApi.props
+E:\66\EcommerceApi\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.EcommerceApi.props
+E:\66\EcommerceApi\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.EcommerceApi.props
+E:\66\EcommerceApi\obj\Debug\net9.0\staticwebassets.pack.json
+E:\66\EcommerceApi\obj\Debug\net9.0\Ecommerc.C9AF1851.Up2Date
+E:\66\EcommerceApi\obj\Debug\net9.0\EcommerceApi.dll
+E:\66\EcommerceApi\obj\Debug\net9.0\refint\EcommerceApi.dll
+E:\66\EcommerceApi\obj\Debug\net9.0\EcommerceApi.pdb
+E:\66\EcommerceApi\bin\Debug\net9.0\EcommerceApi.deps.json
+E:\66\EcommerceApi\bin\Debug\net9.0\EcommerceApi.runtimeconfig.json
+E:\66\EcommerceApi\bin\Debug\net9.0\EcommerceApi.pdb
+E:\66\EcommerceApi\obj\Debug\net9.0\EcommerceApi.genruntimeconfig.cache
+E:\66\EcommerceApi\obj\Debug\net9.0\ref\EcommerceApi.dll
+E:\66\EcommerceApi\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\appsettings.Development.json
+E:\80000\EcommerceApi\bin\Debug\net9.0\appsettings.json
+E:\80000\EcommerceApi\bin\Debug\net9.0\EcommerceApi.staticwebassets.runtime.json
+E:\80000\EcommerceApi\bin\Debug\net9.0\EcommerceApi.staticwebassets.endpoints.json
+E:\80000\EcommerceApi\bin\Debug\net9.0\EcommerceApi.exe
+E:\80000\EcommerceApi\bin\Debug\net9.0\EcommerceApi.deps.json
+E:\80000\EcommerceApi\bin\Debug\net9.0\EcommerceApi.runtimeconfig.json
+E:\80000\EcommerceApi\bin\Debug\net9.0\EcommerceApi.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\EcommerceApi.pdb
+E:\80000\EcommerceApi\bin\Debug\net9.0\Azure.Core.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\Azure.Identity.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\Humanizer.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\Newtonsoft.Json.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\System.ClientModel.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\System.CodeDom.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\System.Memory.Data.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\80000\EcommerceApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\80000\EcommerceApi\obj\Debug\net9.0\EcommerceApi.csproj.AssemblyReference.cache
+E:\80000\EcommerceApi\obj\Debug\net9.0\EcommerceApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\80000\EcommerceApi\obj\Debug\net9.0\EcommerceApi.AssemblyInfoInputs.cache
+E:\80000\EcommerceApi\obj\Debug\net9.0\EcommerceApi.AssemblyInfo.cs
+E:\80000\EcommerceApi\obj\Debug\net9.0\EcommerceApi.csproj.CoreCompileInputs.cache
+E:\80000\EcommerceApi\obj\Debug\net9.0\EcommerceApi.MvcApplicationPartsAssemblyInfo.cs
+E:\80000\EcommerceApi\obj\Debug\net9.0\EcommerceApi.MvcApplicationPartsAssemblyInfo.cache
+E:\80000\EcommerceApi\obj\Debug\net9.0\scopedcss\bundle\EcommerceApi.styles.css
+E:\80000\EcommerceApi\obj\Debug\net9.0\compressed\ivfctrvdmv-es6jc3htb9.gz
+E:\80000\EcommerceApi\obj\Debug\net9.0\compressed\1tlj3jrtxz-zfrqedqh08.gz
+E:\80000\EcommerceApi\obj\Debug\net9.0\staticwebassets.build.json
+E:\80000\EcommerceApi\obj\Debug\net9.0\staticwebassets.development.json
+E:\80000\EcommerceApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\80000\EcommerceApi\obj\Debug\net9.0\staticwebassets\msbuild.EcommerceApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\80000\EcommerceApi\obj\Debug\net9.0\staticwebassets\msbuild.EcommerceApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\80000\EcommerceApi\obj\Debug\net9.0\staticwebassets\msbuild.build.EcommerceApi.props
+E:\80000\EcommerceApi\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.EcommerceApi.props
+E:\80000\EcommerceApi\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.EcommerceApi.props
+E:\80000\EcommerceApi\obj\Debug\net9.0\staticwebassets.pack.json
+E:\80000\EcommerceApi\obj\Debug\net9.0\Ecommerc.C9AF1851.Up2Date
+E:\80000\EcommerceApi\obj\Debug\net9.0\EcommerceApi.dll
+E:\80000\EcommerceApi\obj\Debug\net9.0\refint\EcommerceApi.dll
+E:\80000\EcommerceApi\obj\Debug\net9.0\EcommerceApi.pdb
+E:\80000\EcommerceApi\obj\Debug\net9.0\EcommerceApi.genruntimeconfig.cache
+E:\80000\EcommerceApi\obj\Debug\net9.0\ref\EcommerceApi.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\appsettings.Development.json
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\EcommerceApi.staticwebassets.endpoints.json
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\appsettings.json
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\EcommerceApi.staticwebassets.runtime.json
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\EcommerceApi.exe
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\EcommerceApi.deps.json
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\EcommerceApi.runtimeconfig.json
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\EcommerceApi.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\EcommerceApi.pdb
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\Azure.Core.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\Azure.Identity.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\Humanizer.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\Newtonsoft.Json.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\System.ClientModel.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\System.CodeDom.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\System.Memory.Data.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\نسخة 2012\EcommerceApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\نسخة 2012\EcommerceApi\obj\Debug\net9.0\EcommerceApi.csproj.AssemblyReference.cache
+E:\نسخة 2012\EcommerceApi\obj\Debug\net9.0\EcommerceApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\نسخة 2012\EcommerceApi\obj\Debug\net9.0\EcommerceApi.AssemblyInfoInputs.cache
+E:\نسخة 2012\EcommerceApi\obj\Debug\net9.0\EcommerceApi.AssemblyInfo.cs
+E:\نسخة 2012\EcommerceApi\obj\Debug\net9.0\EcommerceApi.csproj.CoreCompileInputs.cache
+E:\نسخة 2012\EcommerceApi\obj\Debug\net9.0\EcommerceApi.MvcApplicationPartsAssemblyInfo.cs
+E:\نسخة 2012\EcommerceApi\obj\Debug\net9.0\EcommerceApi.MvcApplicationPartsAssemblyInfo.cache
+E:\نسخة 2012\EcommerceApi\obj\Debug\net9.0\scopedcss\bundle\EcommerceApi.styles.css
+E:\نسخة 2012\EcommerceApi\obj\Debug\net9.0\compressed\ivfctrvdmv-es6jc3htb9.gz
+E:\نسخة 2012\EcommerceApi\obj\Debug\net9.0\compressed\1tlj3jrtxz-zfrqedqh08.gz
+E:\نسخة 2012\EcommerceApi\obj\Debug\net9.0\staticwebassets.build.json
+E:\نسخة 2012\EcommerceApi\obj\Debug\net9.0\staticwebassets.development.json
+E:\نسخة 2012\EcommerceApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\نسخة 2012\EcommerceApi\obj\Debug\net9.0\staticwebassets\msbuild.EcommerceApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\نسخة 2012\EcommerceApi\obj\Debug\net9.0\staticwebassets\msbuild.EcommerceApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\نسخة 2012\EcommerceApi\obj\Debug\net9.0\staticwebassets\msbuild.build.EcommerceApi.props
+E:\نسخة 2012\EcommerceApi\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.EcommerceApi.props
+E:\نسخة 2012\EcommerceApi\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.EcommerceApi.props
+E:\نسخة 2012\EcommerceApi\obj\Debug\net9.0\staticwebassets.pack.json
+E:\نسخة 2012\EcommerceApi\obj\Debug\net9.0\Ecommerc.C9AF1851.Up2Date
+E:\نسخة 2012\EcommerceApi\obj\Debug\net9.0\EcommerceApi.dll
+E:\نسخة 2012\EcommerceApi\obj\Debug\net9.0\refint\EcommerceApi.dll
+E:\نسخة 2012\EcommerceApi\obj\Debug\net9.0\EcommerceApi.pdb
+E:\نسخة 2012\EcommerceApi\obj\Debug\net9.0\EcommerceApi.genruntimeconfig.cache
+E:\نسخة 2012\EcommerceApi\obj\Debug\net9.0\ref\EcommerceApi.dll
+E:\نسخة 2012\EcommerceApi\obj\Debug\net9.0\compressed\cpfm3wvs21-mjfaxlizgc.gz
+E:\نسخة 2012\EcommerceApi\obj\Debug\net9.0\compressed\4sbspvtm4t-1119vnpyea.gz
+E:\نسخة 2012\EcommerceApi\obj\Debug\net9.0\compressed\vvm6kmjecn-wavu88hft9.gz
+E:\نسخة 2012\EcommerceApi\obj\Debug\net9.0\compressed\p5kc72ki7c-f5ou2ya8g0.gz
+E:\نسخة 2012\EcommerceApi\obj\Debug\net9.0\compressed\4lx48xq4rr-btntibmoya.gz
+E:\نسخة 2012\EcommerceApi\obj\Debug\net9.0\compressed\pa3pem1xi5-ki7u9y4fec.gz
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\appsettings.Development.json
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\appsettings.json
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\EcommerceApi.staticwebassets.endpoints.json
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\EcommerceApi.staticwebassets.runtime.json
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\EcommerceApi.exe
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\EcommerceApi.deps.json
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\EcommerceApi.runtimeconfig.json
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\EcommerceApi.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\EcommerceApi.pdb
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\Azure.Core.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\Azure.Identity.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\Humanizer.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\Newtonsoft.Json.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\System.ClientModel.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\System.CodeDom.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\System.Memory.Data.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\E-commerce\EcommerceApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\E-commerce\EcommerceApi\obj\Debug\net9.0\EcommerceApi.csproj.AssemblyReference.cache
+E:\E-commerce\EcommerceApi\obj\Debug\net9.0\EcommerceApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\E-commerce\EcommerceApi\obj\Debug\net9.0\EcommerceApi.AssemblyInfoInputs.cache
+E:\E-commerce\EcommerceApi\obj\Debug\net9.0\EcommerceApi.AssemblyInfo.cs
+E:\E-commerce\EcommerceApi\obj\Debug\net9.0\EcommerceApi.csproj.CoreCompileInputs.cache
+E:\E-commerce\EcommerceApi\obj\Debug\net9.0\EcommerceApi.MvcApplicationPartsAssemblyInfo.cs
+E:\E-commerce\EcommerceApi\obj\Debug\net9.0\EcommerceApi.MvcApplicationPartsAssemblyInfo.cache
+E:\E-commerce\EcommerceApi\obj\Debug\net9.0\scopedcss\bundle\EcommerceApi.styles.css
+E:\E-commerce\EcommerceApi\obj\Debug\net9.0\compressed\cpfm3wvs21-mjfaxlizgc.gz
+E:\E-commerce\EcommerceApi\obj\Debug\net9.0\compressed\4sbspvtm4t-1119vnpyea.gz
+E:\E-commerce\EcommerceApi\obj\Debug\net9.0\compressed\vvm6kmjecn-wavu88hft9.gz
+E:\E-commerce\EcommerceApi\obj\Debug\net9.0\compressed\p5kc72ki7c-f5ou2ya8g0.gz
+E:\E-commerce\EcommerceApi\obj\Debug\net9.0\compressed\4lx48xq4rr-btntibmoya.gz
+E:\E-commerce\EcommerceApi\obj\Debug\net9.0\compressed\pa3pem1xi5-ki7u9y4fec.gz
+E:\E-commerce\EcommerceApi\obj\Debug\net9.0\compressed\ivfctrvdmv-es6jc3htb9.gz
+E:\E-commerce\EcommerceApi\obj\Debug\net9.0\compressed\1tlj3jrtxz-zfrqedqh08.gz
+E:\E-commerce\EcommerceApi\obj\Debug\net9.0\staticwebassets.build.json
+E:\E-commerce\EcommerceApi\obj\Debug\net9.0\staticwebassets.development.json
+E:\E-commerce\EcommerceApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\E-commerce\EcommerceApi\obj\Debug\net9.0\staticwebassets\msbuild.EcommerceApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\E-commerce\EcommerceApi\obj\Debug\net9.0\staticwebassets\msbuild.EcommerceApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\E-commerce\EcommerceApi\obj\Debug\net9.0\staticwebassets\msbuild.build.EcommerceApi.props
+E:\E-commerce\EcommerceApi\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.EcommerceApi.props
+E:\E-commerce\EcommerceApi\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.EcommerceApi.props
+E:\E-commerce\EcommerceApi\obj\Debug\net9.0\staticwebassets.pack.json
+E:\E-commerce\EcommerceApi\obj\Debug\net9.0\Ecommerc.C9AF1851.Up2Date
+E:\E-commerce\EcommerceApi\obj\Debug\net9.0\EcommerceApi.dll
+E:\E-commerce\EcommerceApi\obj\Debug\net9.0\refint\EcommerceApi.dll
+E:\E-commerce\EcommerceApi\obj\Debug\net9.0\EcommerceApi.pdb
+E:\E-commerce\EcommerceApi\obj\Debug\net9.0\EcommerceApi.genruntimeconfig.cache
+E:\E-commerce\EcommerceApi\obj\Debug\net9.0\ref\EcommerceApi.dll
