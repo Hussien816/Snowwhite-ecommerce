@@ -976,3 +976,4 @@ E:\E-commerce\EcommerceApi\obj\Debug\net9.0\refint\EcommerceApi.dll
 E:\E-commerce\EcommerceApi\obj\Debug\net9.0\EcommerceApi.pdb
 E:\E-commerce\EcommerceApi\obj\Debug\net9.0\EcommerceApi.genruntimeconfig.cache
 E:\E-commerce\EcommerceApi\obj\Debug\net9.0\ref\EcommerceApi.dll
+E:\E-commerce\EcommerceApi\obj\Debug\net9.0\EcommerceApi.sourcelink.json

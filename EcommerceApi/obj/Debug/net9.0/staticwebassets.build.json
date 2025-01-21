@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "dIuVPoazmnuirQGXWPuSVmURCXaRbnQAXhworbdIEE0=",
+  "Hash": "qG6BbPEy+ZLTwPoR44Jit8E26lZt09nw0yaQZH3PzA8=",
   "Source": "EcommerceApi",
   "BasePath": "_content/EcommerceApi",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "EcommerceApi\\wwwroot",
       "Source": "EcommerceApi",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\1tlj3jrtxz-zfrqedqh08.gz",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\1tlj3jrtxz-zfrqedqh08.gz",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "style#[.{fingerprint=zfrqedqh08}]?.css.gz",
       "AssetKind": "All",
@@ -28,20 +28,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "E:\\E-commerce\\EcommerceApi\\wwwroot\\style.css",
+      "RelatedAsset": "e:\\E-commerce\\EcommerceApi\\wwwroot\\style.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "m3ugg65md7",
       "Integrity": "YrSD/YSXJkVTckwNSZT3ekC2Sxtu83l3BPyK0qHYD/0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\E-commerce\\EcommerceApi\\wwwroot\\style.css"
+      "OriginalItemSpec": "e:\\E-commerce\\EcommerceApi\\wwwroot\\style.css"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\4lx48xq4rr-btntibmoya.gz",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\4lx48xq4rr-btntibmoya.gz",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "checkout#[.{fingerprint=btntibmoya}]?.html.gz",
       "AssetKind": "All",
@@ -49,20 +49,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "E:\\E-commerce\\EcommerceApi\\wwwroot\\checkout.html",
+      "RelatedAsset": "e:\\E-commerce\\EcommerceApi\\wwwroot\\checkout.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "c3wg2qfddl",
       "Integrity": "iN/v5mHf3AGWz/dzoxgGmpKDuHF/hL9qJFPEO3wQw7M=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\E-commerce\\EcommerceApi\\wwwroot\\checkout.html"
+      "OriginalItemSpec": "e:\\E-commerce\\EcommerceApi\\wwwroot\\checkout.html"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\4sbspvtm4t-1119vnpyea.gz",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\4sbspvtm4t-1119vnpyea.gz",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "auth#[.{fingerprint=1119vnpyea}]?.js.gz",
       "AssetKind": "All",
@@ -70,20 +70,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "E:\\E-commerce\\EcommerceApi\\wwwroot\\auth.js",
+      "RelatedAsset": "e:\\E-commerce\\EcommerceApi\\wwwroot\\auth.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "wxekplm4uv",
       "Integrity": "XOqC+mkOBq7d3+q+3+uaMC5OUPCFn7ov0qxckq6aXyk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\E-commerce\\EcommerceApi\\wwwroot\\auth.js"
+      "OriginalItemSpec": "e:\\E-commerce\\EcommerceApi\\wwwroot\\auth.js"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\cpfm3wvs21-mjfaxlizgc.gz",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\cpfm3wvs21-mjfaxlizgc.gz",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "api-config#[.{fingerprint=mjfaxlizgc}]?.js.gz",
       "AssetKind": "All",
@@ -91,20 +91,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "E:\\E-commerce\\EcommerceApi\\wwwroot\\api-config.js",
+      "RelatedAsset": "e:\\E-commerce\\EcommerceApi\\wwwroot\\api-config.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "0wh0q9mg4m",
       "Integrity": "kNhl83LqXtdkFJ9VasCgsfaxPMCwxmpClbE49EQx6OA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\E-commerce\\EcommerceApi\\wwwroot\\api-config.js"
+      "OriginalItemSpec": "e:\\E-commerce\\EcommerceApi\\wwwroot\\api-config.js"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\ivfctrvdmv-es6jc3htb9.gz",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\ivfctrvdmv-es6jc3htb9.gz",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "product-detail#[.{fingerprint=es6jc3htb9}]?.html.gz",
       "AssetKind": "All",
@@ -112,20 +112,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "E:\\E-commerce\\EcommerceApi\\wwwroot\\product-detail.html",
+      "RelatedAsset": "e:\\E-commerce\\EcommerceApi\\wwwroot\\product-detail.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "ruxlpaqx3k",
       "Integrity": "XWAU+G1oC3LHRkXkW/S0m1MausFwUFHGWzX/66D/QYw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\E-commerce\\EcommerceApi\\wwwroot\\product-detail.html"
+      "OriginalItemSpec": "e:\\E-commerce\\EcommerceApi\\wwwroot\\product-detail.html"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\p5kc72ki7c-f5ou2ya8g0.gz",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\p5kc72ki7c-f5ou2ya8g0.gz",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "checkout-service#[.{fingerprint=f5ou2ya8g0}]?.js.gz",
       "AssetKind": "All",
@@ -133,20 +133,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "E:\\E-commerce\\EcommerceApi\\wwwroot\\checkout-service.js",
+      "RelatedAsset": "e:\\E-commerce\\EcommerceApi\\wwwroot\\checkout-service.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "vu4hr0ag15",
       "Integrity": "KTIgXZ2aZe+W6d9+CLomqjgWGtgbtZbUi4KMyZjrz90=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\E-commerce\\EcommerceApi\\wwwroot\\checkout-service.js"
+      "OriginalItemSpec": "e:\\E-commerce\\EcommerceApi\\wwwroot\\checkout-service.js"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\pa3pem1xi5-ki7u9y4fec.gz",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\pa3pem1xi5-ki7u9y4fec.gz",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "order-service#[.{fingerprint=ki7u9y4fec}]?.js.gz",
       "AssetKind": "All",
@@ -154,20 +154,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "E:\\E-commerce\\EcommerceApi\\wwwroot\\order-service.js",
+      "RelatedAsset": "e:\\E-commerce\\EcommerceApi\\wwwroot\\order-service.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "1j59bykcfd",
       "Integrity": "w4g6sl15p3vbPxb4vVr8OoTz56GgD9yMto8rASDqVI0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\E-commerce\\EcommerceApi\\wwwroot\\order-service.js"
+      "OriginalItemSpec": "e:\\E-commerce\\EcommerceApi\\wwwroot\\order-service.js"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\vvm6kmjecn-wavu88hft9.gz",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\vvm6kmjecn-wavu88hft9.gz",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "cart-service#[.{fingerprint=wavu88hft9}]?.js.gz",
       "AssetKind": "All",
@@ -175,20 +175,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "E:\\E-commerce\\EcommerceApi\\wwwroot\\cart-service.js",
+      "RelatedAsset": "e:\\E-commerce\\EcommerceApi\\wwwroot\\cart-service.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "7a9rpy21lg",
       "Integrity": "v0ivcfLxQkozXRj8H9MXrbAh/ZuMFWFI85HUK0oqk9E=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\E-commerce\\EcommerceApi\\wwwroot\\cart-service.js"
+      "OriginalItemSpec": "e:\\E-commerce\\EcommerceApi\\wwwroot\\cart-service.js"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\api-config.js",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\api-config.js",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "api-config#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\api-config.js"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\auth.js",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\auth.js",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "auth#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\auth.js"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\button.png",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\button.png",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "button#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\button.png"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\cart-service.js",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\cart-service.js",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "cart-service#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\cart-service.js"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\checkout-service.js",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\checkout-service.js",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "checkout-service#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\checkout-service.js"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\checkout.html",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\checkout.html",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "checkout#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\checkout.html"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\EcommerceApi - Shortcut.lnk",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\EcommerceApi - Shortcut.lnk",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "EcommerceApi - Shortcut#[.{fingerprint}]?.lnk",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\EcommerceApi - Shortcut.lnk"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\f1.JPEG",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\f1.JPEG",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "f1#[.{fingerprint}]?.JPEG",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\f1.JPEG"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\f2.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\f2.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "f2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\f2.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\f3.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\f3.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "f3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -395,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\f3.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\f4.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\f4.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "f4#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\f4.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\f5.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\f5.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "f5#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\f5.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\f6.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\f6.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "f6#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -458,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\f6.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\f7.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\f7.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "f7#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -479,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\f7.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\f8.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\f8.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "f8#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -500,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\f8.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\hero4.png",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\hero4.png",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "hero4#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -521,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\hero4.png"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\009c4942-1837-45ac-a1aa-28a3c244634a_f1.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\009c4942-1837-45ac-a1aa-28a3c244634a_f1.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "images/009c4942-1837-45ac-a1aa-28a3c244634a_f1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -542,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\images\\009c4942-1837-45ac-a1aa-28a3c244634a_f1.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\017bb762-c015-430c-a8eb-6c02b191a478_f1.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\017bb762-c015-430c-a8eb-6c02b191a478_f1.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "images/017bb762-c015-430c-a8eb-6c02b191a478_f1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -563,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\images\\017bb762-c015-430c-a8eb-6c02b191a478_f1.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\02f06628-2914-4655-a4b2-d6af7748b56f_f1.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\02f06628-2914-4655-a4b2-d6af7748b56f_f1.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "images/02f06628-2914-4655-a4b2-d6af7748b56f_f1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -584,10 +584,10 @@
       "OriginalItemSpec": "wwwroot\\images\\02f06628-2914-4655-a4b2-d6af7748b56f_f1.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\0f87215f-3932-4e28-8171-9a98afe4b71d_n2.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\0f87215f-3932-4e28-8171-9a98afe4b71d_n2.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "images/0f87215f-3932-4e28-8171-9a98afe4b71d_n2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -605,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\images\\0f87215f-3932-4e28-8171-9a98afe4b71d_n2.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\10c31204-1e07-49c2-9de5-5c52af4e5787_f3.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\10c31204-1e07-49c2-9de5-5c52af4e5787_f3.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "images/10c31204-1e07-49c2-9de5-5c52af4e5787_f3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -626,10 +626,10 @@
       "OriginalItemSpec": "wwwroot\\images\\10c31204-1e07-49c2-9de5-5c52af4e5787_f3.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\138adddf-9c65-4023-b54d-a0a8c338a72d_c3c17517-ae61-47c9-a181-d9cc5b730d9c_f8.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\138adddf-9c65-4023-b54d-a0a8c338a72d_c3c17517-ae61-47c9-a181-d9cc5b730d9c_f8.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "images/138adddf-9c65-4023-b54d-a0a8c338a72d_c3c17517-ae61-47c9-a181-d9cc5b730d9c_f8#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -647,10 +647,10 @@
       "OriginalItemSpec": "wwwroot\\images\\138adddf-9c65-4023-b54d-a0a8c338a72d_c3c17517-ae61-47c9-a181-d9cc5b730d9c_f8.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\21fcaf1e-ce96-4d7f-b924-b64120daaeab_f1.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\21fcaf1e-ce96-4d7f-b924-b64120daaeab_f1.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "images/21fcaf1e-ce96-4d7f-b924-b64120daaeab_f1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -668,10 +668,10 @@
       "OriginalItemSpec": "wwwroot\\images\\21fcaf1e-ce96-4d7f-b924-b64120daaeab_f1.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\27602345-bfab-45cc-9943-1070dd03bc32_n2.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\27602345-bfab-45cc-9943-1070dd03bc32_n2.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "images/27602345-bfab-45cc-9943-1070dd03bc32_n2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -689,10 +689,10 @@
       "OriginalItemSpec": "wwwroot\\images\\27602345-bfab-45cc-9943-1070dd03bc32_n2.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\2f29cda2-0dd1-4fed-89ce-128dc34550e0_f1.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\2f29cda2-0dd1-4fed-89ce-128dc34550e0_f1.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "images/2f29cda2-0dd1-4fed-89ce-128dc34550e0_f1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -710,10 +710,10 @@
       "OriginalItemSpec": "wwwroot\\images\\2f29cda2-0dd1-4fed-89ce-128dc34550e0_f1.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\329dfc71-e2be-4e16-ab22-35c35018354c_f8.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\329dfc71-e2be-4e16-ab22-35c35018354c_f8.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "images/329dfc71-e2be-4e16-ab22-35c35018354c_f8#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\images\\329dfc71-e2be-4e16-ab22-35c35018354c_f8.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\416cde01-dd6d-459a-9c16-94dc4016301b_f8.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\416cde01-dd6d-459a-9c16-94dc4016301b_f8.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "images/416cde01-dd6d-459a-9c16-94dc4016301b_f8#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -752,10 +752,10 @@
       "OriginalItemSpec": "wwwroot\\images\\416cde01-dd6d-459a-9c16-94dc4016301b_f8.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\4aaa739e-659b-4084-8fe1-2f249d5cb47c_f1.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\4aaa739e-659b-4084-8fe1-2f249d5cb47c_f1.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "images/4aaa739e-659b-4084-8fe1-2f249d5cb47c_f1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -773,10 +773,10 @@
       "OriginalItemSpec": "wwwroot\\images\\4aaa739e-659b-4084-8fe1-2f249d5cb47c_f1.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\4d10b5ae-34d9-4493-82a5-cb9699227032_f8.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\4d10b5ae-34d9-4493-82a5-cb9699227032_f8.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "images/4d10b5ae-34d9-4493-82a5-cb9699227032_f8#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -794,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\images\\4d10b5ae-34d9-4493-82a5-cb9699227032_f8.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\4e9e45f7-177a-4e51-9477-442bf26fc6db_f6.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\4e9e45f7-177a-4e51-9477-442bf26fc6db_f6.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "images/4e9e45f7-177a-4e51-9477-442bf26fc6db_f6#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\images\\4e9e45f7-177a-4e51-9477-442bf26fc6db_f6.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\57ace519-fb9d-4790-960a-9167ec6b84fd_f3.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\57ace519-fb9d-4790-960a-9167ec6b84fd_f3.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "images/57ace519-fb9d-4790-960a-9167ec6b84fd_f3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -836,10 +836,10 @@
       "OriginalItemSpec": "wwwroot\\images\\57ace519-fb9d-4790-960a-9167ec6b84fd_f3.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\586d48e3-d70b-44d4-97b1-0196dc457cd6_f3.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\586d48e3-d70b-44d4-97b1-0196dc457cd6_f3.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "images/586d48e3-d70b-44d4-97b1-0196dc457cd6_f3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -857,10 +857,10 @@
       "OriginalItemSpec": "wwwroot\\images\\586d48e3-d70b-44d4-97b1-0196dc457cd6_f3.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\591c9e61-0c80-479d-8b60-4e4a29e2e916_f1.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\591c9e61-0c80-479d-8b60-4e4a29e2e916_f1.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "images/591c9e61-0c80-479d-8b60-4e4a29e2e916_f1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -878,10 +878,10 @@
       "OriginalItemSpec": "wwwroot\\images\\591c9e61-0c80-479d-8b60-4e4a29e2e916_f1.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\5c10296d-dc6a-4a5c-9a5f-0b64539a9801_f1.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\5c10296d-dc6a-4a5c-9a5f-0b64539a9801_f1.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "images/5c10296d-dc6a-4a5c-9a5f-0b64539a9801_f1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -899,10 +899,10 @@
       "OriginalItemSpec": "wwwroot\\images\\5c10296d-dc6a-4a5c-9a5f-0b64539a9801_f1.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\5c278353-120e-41ba-a851-cbd745e01286_f1.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\5c278353-120e-41ba-a851-cbd745e01286_f1.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "images/5c278353-120e-41ba-a851-cbd745e01286_f1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -920,10 +920,10 @@
       "OriginalItemSpec": "wwwroot\\images\\5c278353-120e-41ba-a851-cbd745e01286_f1.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\607a0256-3dcb-40ff-8f57-992ad1701fd6_f1.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\607a0256-3dcb-40ff-8f57-992ad1701fd6_f1.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "images/607a0256-3dcb-40ff-8f57-992ad1701fd6_f1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -941,10 +941,10 @@
       "OriginalItemSpec": "wwwroot\\images\\607a0256-3dcb-40ff-8f57-992ad1701fd6_f1.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\6140a0b2-1fbf-41e8-8b2a-4ad6f38c4b4b_f1.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\6140a0b2-1fbf-41e8-8b2a-4ad6f38c4b4b_f1.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "images/6140a0b2-1fbf-41e8-8b2a-4ad6f38c4b4b_f1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -962,10 +962,10 @@
       "OriginalItemSpec": "wwwroot\\images\\6140a0b2-1fbf-41e8-8b2a-4ad6f38c4b4b_f1.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\6502aab7-4124-45f2-870f-6edd39c361cf_f1.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\6502aab7-4124-45f2-870f-6edd39c361cf_f1.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "images/6502aab7-4124-45f2-870f-6edd39c361cf_f1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -983,10 +983,10 @@
       "OriginalItemSpec": "wwwroot\\images\\6502aab7-4124-45f2-870f-6edd39c361cf_f1.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\68dc741e-3f9d-4162-9587-c8149b9a02ba_f1.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\68dc741e-3f9d-4162-9587-c8149b9a02ba_f1.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "images/68dc741e-3f9d-4162-9587-c8149b9a02ba_f1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1004,10 +1004,10 @@
       "OriginalItemSpec": "wwwroot\\images\\68dc741e-3f9d-4162-9587-c8149b9a02ba_f1.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\6e55c62c-b936-4c96-a85c-59437f721cc7_f8.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\6e55c62c-b936-4c96-a85c-59437f721cc7_f8.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "images/6e55c62c-b936-4c96-a85c-59437f721cc7_f8#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1025,10 +1025,10 @@
       "OriginalItemSpec": "wwwroot\\images\\6e55c62c-b936-4c96-a85c-59437f721cc7_f8.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\702c508a-4a4d-4119-9777-3a113be77a24_f3.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\702c508a-4a4d-4119-9777-3a113be77a24_f3.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "images/702c508a-4a4d-4119-9777-3a113be77a24_f3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1046,10 +1046,10 @@
       "OriginalItemSpec": "wwwroot\\images\\702c508a-4a4d-4119-9777-3a113be77a24_f3.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\894a6669-3b02-42ba-a4ce-74d7005c9bda_n2.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\894a6669-3b02-42ba-a4ce-74d7005c9bda_n2.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "images/894a6669-3b02-42ba-a4ce-74d7005c9bda_n2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1067,10 +1067,10 @@
       "OriginalItemSpec": "wwwroot\\images\\894a6669-3b02-42ba-a4ce-74d7005c9bda_n2.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\8c578d5d-1b9b-4eea-9769-481a3f4cc859_f1.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\8c578d5d-1b9b-4eea-9769-481a3f4cc859_f1.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "images/8c578d5d-1b9b-4eea-9769-481a3f4cc859_f1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\images\\8c578d5d-1b9b-4eea-9769-481a3f4cc859_f1.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\95d0138a-ef72-4314-8a5a-d232c1b0057a_f1.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\95d0138a-ef72-4314-8a5a-d232c1b0057a_f1.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "images/95d0138a-ef72-4314-8a5a-d232c1b0057a_f1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1109,10 +1109,10 @@
       "OriginalItemSpec": "wwwroot\\images\\95d0138a-ef72-4314-8a5a-d232c1b0057a_f1.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\9a75575d-cc5a-44bf-b0f2-e93acb8f160c_f8.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\9a75575d-cc5a-44bf-b0f2-e93acb8f160c_f8.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "images/9a75575d-cc5a-44bf-b0f2-e93acb8f160c_f8#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1130,10 +1130,10 @@
       "OriginalItemSpec": "wwwroot\\images\\9a75575d-cc5a-44bf-b0f2-e93acb8f160c_f8.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\9fdcdf56-1071-432d-a3a4-fc21d7deaf3c_f1.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\9fdcdf56-1071-432d-a3a4-fc21d7deaf3c_f1.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "images/9fdcdf56-1071-432d-a3a4-fc21d7deaf3c_f1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1151,10 +1151,10 @@
       "OriginalItemSpec": "wwwroot\\images\\9fdcdf56-1071-432d-a3a4-fc21d7deaf3c_f1.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\a43abf74-3240-460a-b0a9-ba70bbb90c77_n2.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\a43abf74-3240-460a-b0a9-ba70bbb90c77_n2.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "images/a43abf74-3240-460a-b0a9-ba70bbb90c77_n2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1172,10 +1172,10 @@
       "OriginalItemSpec": "wwwroot\\images\\a43abf74-3240-460a-b0a9-ba70bbb90c77_n2.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\a699080f-ae2c-4b7d-a929-f7512555602f_f3.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\a699080f-ae2c-4b7d-a929-f7512555602f_f3.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "images/a699080f-ae2c-4b7d-a929-f7512555602f_f3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1193,10 +1193,10 @@
       "OriginalItemSpec": "wwwroot\\images\\a699080f-ae2c-4b7d-a929-f7512555602f_f3.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\ad60c330-66b7-4568-879d-6dc883cf67b7_f1.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\ad60c330-66b7-4568-879d-6dc883cf67b7_f1.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "images/ad60c330-66b7-4568-879d-6dc883cf67b7_f1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ad60c330-66b7-4568-879d-6dc883cf67b7_f1.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\b538f7cb-61aa-4871-8f6d-3964017ea058_f6.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\b538f7cb-61aa-4871-8f6d-3964017ea058_f6.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "images/b538f7cb-61aa-4871-8f6d-3964017ea058_f6#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1235,10 +1235,10 @@
       "OriginalItemSpec": "wwwroot\\images\\b538f7cb-61aa-4871-8f6d-3964017ea058_f6.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\baca7b9b-6acf-4320-94cf-a941a082224c_n2.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\baca7b9b-6acf-4320-94cf-a941a082224c_n2.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "images/baca7b9b-6acf-4320-94cf-a941a082224c_n2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1256,10 +1256,10 @@
       "OriginalItemSpec": "wwwroot\\images\\baca7b9b-6acf-4320-94cf-a941a082224c_n2.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\bf6f1eee-42b7-477a-9597-4f82652a56c5_f1.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\bf6f1eee-42b7-477a-9597-4f82652a56c5_f1.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "images/bf6f1eee-42b7-477a-9597-4f82652a56c5_f1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1277,10 +1277,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bf6f1eee-42b7-477a-9597-4f82652a56c5_f1.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\c0f75d07-4e3e-4379-82e6-6413b6ea61be_f1.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\c0f75d07-4e3e-4379-82e6-6413b6ea61be_f1.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "images/c0f75d07-4e3e-4379-82e6-6413b6ea61be_f1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1298,10 +1298,10 @@
       "OriginalItemSpec": "wwwroot\\images\\c0f75d07-4e3e-4379-82e6-6413b6ea61be_f1.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\c3c17517-ae61-47c9-a181-d9cc5b730d9c_f8.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\c3c17517-ae61-47c9-a181-d9cc5b730d9c_f8.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "images/c3c17517-ae61-47c9-a181-d9cc5b730d9c_f8#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1319,10 +1319,10 @@
       "OriginalItemSpec": "wwwroot\\images\\c3c17517-ae61-47c9-a181-d9cc5b730d9c_f8.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\cbe7c4da-96ce-407f-9933-5597f4cb5498_f1.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\cbe7c4da-96ce-407f-9933-5597f4cb5498_f1.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "images/cbe7c4da-96ce-407f-9933-5597f4cb5498_f1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1340,10 +1340,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cbe7c4da-96ce-407f-9933-5597f4cb5498_f1.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\d5d7ab1a-debf-4818-801a-5f5ac95ecaa4_f1.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\d5d7ab1a-debf-4818-801a-5f5ac95ecaa4_f1.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "images/d5d7ab1a-debf-4818-801a-5f5ac95ecaa4_f1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1361,10 +1361,10 @@
       "OriginalItemSpec": "wwwroot\\images\\d5d7ab1a-debf-4818-801a-5f5ac95ecaa4_f1.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\d9da16cd-8841-4c11-8363-4ca4937681c3_f1.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\d9da16cd-8841-4c11-8363-4ca4937681c3_f1.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "images/d9da16cd-8841-4c11-8363-4ca4937681c3_f1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1382,10 +1382,10 @@
       "OriginalItemSpec": "wwwroot\\images\\d9da16cd-8841-4c11-8363-4ca4937681c3_f1.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\eb89396e-6c94-4d8e-939c-4e32326814e9_f1.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\eb89396e-6c94-4d8e-939c-4e32326814e9_f1.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "images/eb89396e-6c94-4d8e-939c-4e32326814e9_f1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1403,10 +1403,10 @@
       "OriginalItemSpec": "wwwroot\\images\\eb89396e-6c94-4d8e-939c-4e32326814e9_f1.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\f56f6501-b9ec-4318-bd90-23b78a6692e8_c3c17517-ae61-47c9-a181-d9cc5b730d9c_f8.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\f56f6501-b9ec-4318-bd90-23b78a6692e8_c3c17517-ae61-47c9-a181-d9cc5b730d9c_f8.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "images/f56f6501-b9ec-4318-bd90-23b78a6692e8_c3c17517-ae61-47c9-a181-d9cc5b730d9c_f8#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1424,10 +1424,10 @@
       "OriginalItemSpec": "wwwroot\\images\\f56f6501-b9ec-4318-bd90-23b78a6692e8_c3c17517-ae61-47c9-a181-d9cc5b730d9c_f8.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\f955af97-4dc9-4ec0-af4a-a20baa9a4b48_f1.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\f955af97-4dc9-4ec0-af4a-a20baa9a4b48_f1.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "images/f955af97-4dc9-4ec0-af4a-a20baa9a4b48_f1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\images\\f955af97-4dc9-4ec0-af4a-a20baa9a4b48_f1.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\fcd47d19-3dfc-487f-9492-bd83f7120bd5_f1.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\fcd47d19-3dfc-487f-9492-bd83f7120bd5_f1.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "images/fcd47d19-3dfc-487f-9492-bd83f7120bd5_f1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1466,10 +1466,10 @@
       "OriginalItemSpec": "wwwroot\\images\\fcd47d19-3dfc-487f-9492-bd83f7120bd5_f1.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\logo.png",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\logo.png",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "logo#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1487,10 +1487,10 @@
       "OriginalItemSpec": "wwwroot\\logo.png"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\n1.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\n1.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "n1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1508,10 +1508,10 @@
       "OriginalItemSpec": "wwwroot\\n1.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\n2.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\n2.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "n2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1529,10 +1529,10 @@
       "OriginalItemSpec": "wwwroot\\n2.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\n3.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\n3.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "n3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1550,10 +1550,10 @@
       "OriginalItemSpec": "wwwroot\\n3.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\n4.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\n4.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "n4#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1571,10 +1571,10 @@
       "OriginalItemSpec": "wwwroot\\n4.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\n5.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\n5.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "n5#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1592,10 +1592,10 @@
       "OriginalItemSpec": "wwwroot\\n5.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\n6.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\n6.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "n6#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\n6.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\n7.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\n7.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "n7#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1634,10 +1634,10 @@
       "OriginalItemSpec": "wwwroot\\n7.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\n8.jpg",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\n8.jpg",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "n8#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1655,10 +1655,10 @@
       "OriginalItemSpec": "wwwroot\\n8.jpg"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\order-service.js",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\order-service.js",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "order-service#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1676,10 +1676,10 @@
       "OriginalItemSpec": "wwwroot\\order-service.js"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\product-detail.html",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\product-detail.html",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "product-detail#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -1697,10 +1697,10 @@
       "OriginalItemSpec": "wwwroot\\product-detail.html"
     },
     {
-      "Identity": "E:\\E-commerce\\EcommerceApi\\wwwroot\\style.css",
+      "Identity": "e:\\E-commerce\\EcommerceApi\\wwwroot\\style.css",
       "SourceId": "EcommerceApi",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\E-commerce\\EcommerceApi\\wwwroot\\",
+      "ContentRoot": "e:\\E-commerce\\EcommerceApi\\wwwroot\\",
       "BasePath": "_content/EcommerceApi",
       "RelativePath": "style#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1721,7 +1721,7 @@
   "Endpoints": [
     {
       "Route": "api-config.js",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\cpfm3wvs21-mjfaxlizgc.gz",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\cpfm3wvs21-mjfaxlizgc.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1776,7 +1776,7 @@
     },
     {
       "Route": "api-config.js",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\api-config.js",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\api-config.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1813,7 +1813,7 @@
     },
     {
       "Route": "api-config.js.gz",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\cpfm3wvs21-mjfaxlizgc.gz",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\cpfm3wvs21-mjfaxlizgc.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1858,7 +1858,7 @@
     },
     {
       "Route": "api-config.mjfaxlizgc.js",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\cpfm3wvs21-mjfaxlizgc.gz",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\cpfm3wvs21-mjfaxlizgc.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1921,7 +1921,7 @@
     },
     {
       "Route": "api-config.mjfaxlizgc.js",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\api-config.js",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\api-config.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1966,7 +1966,7 @@
     },
     {
       "Route": "api-config.mjfaxlizgc.js.gz",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\cpfm3wvs21-mjfaxlizgc.gz",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\cpfm3wvs21-mjfaxlizgc.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2019,7 +2019,7 @@
     },
     {
       "Route": "auth.1119vnpyea.js",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\4sbspvtm4t-1119vnpyea.gz",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\4sbspvtm4t-1119vnpyea.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2082,7 +2082,7 @@
     },
     {
       "Route": "auth.1119vnpyea.js",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\auth.js",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\auth.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2127,7 +2127,7 @@
     },
     {
       "Route": "auth.1119vnpyea.js.gz",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\4sbspvtm4t-1119vnpyea.gz",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\4sbspvtm4t-1119vnpyea.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2180,7 +2180,7 @@
     },
     {
       "Route": "auth.js",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\4sbspvtm4t-1119vnpyea.gz",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\4sbspvtm4t-1119vnpyea.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2235,7 +2235,7 @@
     },
     {
       "Route": "auth.js",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\auth.js",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\auth.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2272,7 +2272,7 @@
     },
     {
       "Route": "auth.js.gz",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\4sbspvtm4t-1119vnpyea.gz",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\4sbspvtm4t-1119vnpyea.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2317,7 +2317,7 @@
     },
     {
       "Route": "button.png",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\button.png",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\button.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2354,7 +2354,7 @@
     },
     {
       "Route": "button.t2tdi5zj61.png",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\button.png",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\button.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2399,7 +2399,7 @@
     },
     {
       "Route": "cart-service.js",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\vvm6kmjecn-wavu88hft9.gz",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\vvm6kmjecn-wavu88hft9.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2454,7 +2454,7 @@
     },
     {
       "Route": "cart-service.js",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\cart-service.js",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\cart-service.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2491,7 +2491,7 @@
     },
     {
       "Route": "cart-service.js.gz",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\vvm6kmjecn-wavu88hft9.gz",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\vvm6kmjecn-wavu88hft9.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2536,7 +2536,7 @@
     },
     {
       "Route": "cart-service.wavu88hft9.js",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\vvm6kmjecn-wavu88hft9.gz",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\vvm6kmjecn-wavu88hft9.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2599,7 +2599,7 @@
     },
     {
       "Route": "cart-service.wavu88hft9.js",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\cart-service.js",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\cart-service.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2644,7 +2644,7 @@
     },
     {
       "Route": "cart-service.wavu88hft9.js.gz",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\vvm6kmjecn-wavu88hft9.gz",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\vvm6kmjecn-wavu88hft9.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2697,7 +2697,7 @@
     },
     {
       "Route": "checkout-service.f5ou2ya8g0.js",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\p5kc72ki7c-f5ou2ya8g0.gz",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\p5kc72ki7c-f5ou2ya8g0.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2760,7 +2760,7 @@
     },
     {
       "Route": "checkout-service.f5ou2ya8g0.js",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\checkout-service.js",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\checkout-service.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2805,7 +2805,7 @@
     },
     {
       "Route": "checkout-service.f5ou2ya8g0.js.gz",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\p5kc72ki7c-f5ou2ya8g0.gz",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\p5kc72ki7c-f5ou2ya8g0.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2858,7 +2858,7 @@
     },
     {
       "Route": "checkout-service.js",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\p5kc72ki7c-f5ou2ya8g0.gz",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\p5kc72ki7c-f5ou2ya8g0.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2913,7 +2913,7 @@
     },
     {
       "Route": "checkout-service.js",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\checkout-service.js",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\checkout-service.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2950,7 +2950,7 @@
     },
     {
       "Route": "checkout-service.js.gz",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\p5kc72ki7c-f5ou2ya8g0.gz",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\p5kc72ki7c-f5ou2ya8g0.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2995,7 +2995,7 @@
     },
     {
       "Route": "checkout.btntibmoya.html",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\4lx48xq4rr-btntibmoya.gz",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\4lx48xq4rr-btntibmoya.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3058,7 +3058,7 @@
     },
     {
       "Route": "checkout.btntibmoya.html",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\checkout.html",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\checkout.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3103,7 +3103,7 @@
     },
     {
       "Route": "checkout.btntibmoya.html.gz",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\4lx48xq4rr-btntibmoya.gz",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\4lx48xq4rr-btntibmoya.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3156,7 +3156,7 @@
     },
     {
       "Route": "checkout.html",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\4lx48xq4rr-btntibmoya.gz",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\4lx48xq4rr-btntibmoya.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3211,7 +3211,7 @@
     },
     {
       "Route": "checkout.html",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\checkout.html",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\checkout.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3248,7 +3248,7 @@
     },
     {
       "Route": "checkout.html.gz",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\4lx48xq4rr-btntibmoya.gz",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\4lx48xq4rr-btntibmoya.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3293,7 +3293,7 @@
     },
     {
       "Route": "EcommerceApi - Shortcut.9bace8nguy.lnk",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\EcommerceApi - Shortcut.lnk",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\EcommerceApi - Shortcut.lnk",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3338,7 +3338,7 @@
     },
     {
       "Route": "EcommerceApi - Shortcut.lnk",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\EcommerceApi - Shortcut.lnk",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\EcommerceApi - Shortcut.lnk",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3375,7 +3375,7 @@
     },
     {
       "Route": "f1.a37v3p1igw.JPEG",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\f1.JPEG",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\f1.JPEG",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3420,7 +3420,7 @@
     },
     {
       "Route": "f1.JPEG",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\f1.JPEG",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\f1.JPEG",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3457,7 +3457,7 @@
     },
     {
       "Route": "f2.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\f2.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\f2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3494,7 +3494,7 @@
     },
     {
       "Route": "f2.wv0q6to46u.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\f2.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\f2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3539,7 +3539,7 @@
     },
     {
       "Route": "f3.5kemtzgywk.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\f3.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\f3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3584,7 +3584,7 @@
     },
     {
       "Route": "f3.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\f3.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\f3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3621,7 +3621,7 @@
     },
     {
       "Route": "f4.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\f4.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\f4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3658,7 +3658,7 @@
     },
     {
       "Route": "f4.omnvrlab25.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\f4.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\f4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3703,7 +3703,7 @@
     },
     {
       "Route": "f5.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\f5.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\f5.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3740,7 +3740,7 @@
     },
     {
       "Route": "f5.meskdjqkf3.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\f5.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\f5.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3785,7 +3785,7 @@
     },
     {
       "Route": "f6.2kxfjer0tn.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\f6.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\f6.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3830,7 +3830,7 @@
     },
     {
       "Route": "f6.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\f6.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\f6.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3867,7 +3867,7 @@
     },
     {
       "Route": "f7.d0acgufdcy.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\f7.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\f7.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3912,7 +3912,7 @@
     },
     {
       "Route": "f7.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\f7.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\f7.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3949,7 +3949,7 @@
     },
     {
       "Route": "f8.3pwgbp9gze.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\f8.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\f8.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3994,7 +3994,7 @@
     },
     {
       "Route": "f8.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\f8.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\f8.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4031,7 +4031,7 @@
     },
     {
       "Route": "hero4.6ncd686juf.png",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\hero4.png",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\hero4.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4076,7 +4076,7 @@
     },
     {
       "Route": "hero4.png",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\hero4.png",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\hero4.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4113,7 +4113,7 @@
     },
     {
       "Route": "images/009c4942-1837-45ac-a1aa-28a3c244634a_f1.a37v3p1igw.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\009c4942-1837-45ac-a1aa-28a3c244634a_f1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\009c4942-1837-45ac-a1aa-28a3c244634a_f1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4158,7 +4158,7 @@
     },
     {
       "Route": "images/009c4942-1837-45ac-a1aa-28a3c244634a_f1.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\009c4942-1837-45ac-a1aa-28a3c244634a_f1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\009c4942-1837-45ac-a1aa-28a3c244634a_f1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4195,7 +4195,7 @@
     },
     {
       "Route": "images/017bb762-c015-430c-a8eb-6c02b191a478_f1.a37v3p1igw.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\017bb762-c015-430c-a8eb-6c02b191a478_f1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\017bb762-c015-430c-a8eb-6c02b191a478_f1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4240,7 +4240,7 @@
     },
     {
       "Route": "images/017bb762-c015-430c-a8eb-6c02b191a478_f1.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\017bb762-c015-430c-a8eb-6c02b191a478_f1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\017bb762-c015-430c-a8eb-6c02b191a478_f1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4277,7 +4277,7 @@
     },
     {
       "Route": "images/02f06628-2914-4655-a4b2-d6af7748b56f_f1.a37v3p1igw.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\02f06628-2914-4655-a4b2-d6af7748b56f_f1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\02f06628-2914-4655-a4b2-d6af7748b56f_f1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4322,7 +4322,7 @@
     },
     {
       "Route": "images/02f06628-2914-4655-a4b2-d6af7748b56f_f1.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\02f06628-2914-4655-a4b2-d6af7748b56f_f1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\02f06628-2914-4655-a4b2-d6af7748b56f_f1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4359,7 +4359,7 @@
     },
     {
       "Route": "images/0f87215f-3932-4e28-8171-9a98afe4b71d_n2.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\0f87215f-3932-4e28-8171-9a98afe4b71d_n2.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\0f87215f-3932-4e28-8171-9a98afe4b71d_n2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4396,7 +4396,7 @@
     },
     {
       "Route": "images/0f87215f-3932-4e28-8171-9a98afe4b71d_n2.ka7tkuceto.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\0f87215f-3932-4e28-8171-9a98afe4b71d_n2.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\0f87215f-3932-4e28-8171-9a98afe4b71d_n2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4441,7 +4441,7 @@
     },
     {
       "Route": "images/10c31204-1e07-49c2-9de5-5c52af4e5787_f3.5kemtzgywk.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\10c31204-1e07-49c2-9de5-5c52af4e5787_f3.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\10c31204-1e07-49c2-9de5-5c52af4e5787_f3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4486,7 +4486,7 @@
     },
     {
       "Route": "images/10c31204-1e07-49c2-9de5-5c52af4e5787_f3.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\10c31204-1e07-49c2-9de5-5c52af4e5787_f3.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\10c31204-1e07-49c2-9de5-5c52af4e5787_f3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4523,7 +4523,7 @@
     },
     {
       "Route": "images/138adddf-9c65-4023-b54d-a0a8c338a72d_c3c17517-ae61-47c9-a181-d9cc5b730d9c_f8.3pwgbp9gze.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\138adddf-9c65-4023-b54d-a0a8c338a72d_c3c17517-ae61-47c9-a181-d9cc5b730d9c_f8.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\138adddf-9c65-4023-b54d-a0a8c338a72d_c3c17517-ae61-47c9-a181-d9cc5b730d9c_f8.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4568,7 +4568,7 @@
     },
     {
       "Route": "images/138adddf-9c65-4023-b54d-a0a8c338a72d_c3c17517-ae61-47c9-a181-d9cc5b730d9c_f8.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\138adddf-9c65-4023-b54d-a0a8c338a72d_c3c17517-ae61-47c9-a181-d9cc5b730d9c_f8.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\138adddf-9c65-4023-b54d-a0a8c338a72d_c3c17517-ae61-47c9-a181-d9cc5b730d9c_f8.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4605,7 +4605,7 @@
     },
     {
       "Route": "images/21fcaf1e-ce96-4d7f-b924-b64120daaeab_f1.a37v3p1igw.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\21fcaf1e-ce96-4d7f-b924-b64120daaeab_f1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\21fcaf1e-ce96-4d7f-b924-b64120daaeab_f1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4650,7 +4650,7 @@
     },
     {
       "Route": "images/21fcaf1e-ce96-4d7f-b924-b64120daaeab_f1.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\21fcaf1e-ce96-4d7f-b924-b64120daaeab_f1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\21fcaf1e-ce96-4d7f-b924-b64120daaeab_f1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4687,7 +4687,7 @@
     },
     {
       "Route": "images/27602345-bfab-45cc-9943-1070dd03bc32_n2.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\27602345-bfab-45cc-9943-1070dd03bc32_n2.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\27602345-bfab-45cc-9943-1070dd03bc32_n2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4724,7 +4724,7 @@
     },
     {
       "Route": "images/27602345-bfab-45cc-9943-1070dd03bc32_n2.ka7tkuceto.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\27602345-bfab-45cc-9943-1070dd03bc32_n2.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\27602345-bfab-45cc-9943-1070dd03bc32_n2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4769,7 +4769,7 @@
     },
     {
       "Route": "images/2f29cda2-0dd1-4fed-89ce-128dc34550e0_f1.a37v3p1igw.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\2f29cda2-0dd1-4fed-89ce-128dc34550e0_f1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\2f29cda2-0dd1-4fed-89ce-128dc34550e0_f1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4814,7 +4814,7 @@
     },
     {
       "Route": "images/2f29cda2-0dd1-4fed-89ce-128dc34550e0_f1.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\2f29cda2-0dd1-4fed-89ce-128dc34550e0_f1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\2f29cda2-0dd1-4fed-89ce-128dc34550e0_f1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4851,7 +4851,7 @@
     },
     {
       "Route": "images/329dfc71-e2be-4e16-ab22-35c35018354c_f8.3pwgbp9gze.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\329dfc71-e2be-4e16-ab22-35c35018354c_f8.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\329dfc71-e2be-4e16-ab22-35c35018354c_f8.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4896,7 +4896,7 @@
     },
     {
       "Route": "images/329dfc71-e2be-4e16-ab22-35c35018354c_f8.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\329dfc71-e2be-4e16-ab22-35c35018354c_f8.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\329dfc71-e2be-4e16-ab22-35c35018354c_f8.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4933,7 +4933,7 @@
     },
     {
       "Route": "images/416cde01-dd6d-459a-9c16-94dc4016301b_f8.3pwgbp9gze.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\416cde01-dd6d-459a-9c16-94dc4016301b_f8.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\416cde01-dd6d-459a-9c16-94dc4016301b_f8.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4978,7 +4978,7 @@
     },
     {
       "Route": "images/416cde01-dd6d-459a-9c16-94dc4016301b_f8.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\416cde01-dd6d-459a-9c16-94dc4016301b_f8.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\416cde01-dd6d-459a-9c16-94dc4016301b_f8.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5015,7 +5015,7 @@
     },
     {
       "Route": "images/4aaa739e-659b-4084-8fe1-2f249d5cb47c_f1.a37v3p1igw.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\4aaa739e-659b-4084-8fe1-2f249d5cb47c_f1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\4aaa739e-659b-4084-8fe1-2f249d5cb47c_f1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5060,7 +5060,7 @@
     },
     {
       "Route": "images/4aaa739e-659b-4084-8fe1-2f249d5cb47c_f1.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\4aaa739e-659b-4084-8fe1-2f249d5cb47c_f1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\4aaa739e-659b-4084-8fe1-2f249d5cb47c_f1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5097,7 +5097,7 @@
     },
     {
       "Route": "images/4d10b5ae-34d9-4493-82a5-cb9699227032_f8.3pwgbp9gze.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\4d10b5ae-34d9-4493-82a5-cb9699227032_f8.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\4d10b5ae-34d9-4493-82a5-cb9699227032_f8.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5142,7 +5142,7 @@
     },
     {
       "Route": "images/4d10b5ae-34d9-4493-82a5-cb9699227032_f8.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\4d10b5ae-34d9-4493-82a5-cb9699227032_f8.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\4d10b5ae-34d9-4493-82a5-cb9699227032_f8.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5179,7 +5179,7 @@
     },
     {
       "Route": "images/4e9e45f7-177a-4e51-9477-442bf26fc6db_f6.2kxfjer0tn.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\4e9e45f7-177a-4e51-9477-442bf26fc6db_f6.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\4e9e45f7-177a-4e51-9477-442bf26fc6db_f6.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5224,7 +5224,7 @@
     },
     {
       "Route": "images/4e9e45f7-177a-4e51-9477-442bf26fc6db_f6.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\4e9e45f7-177a-4e51-9477-442bf26fc6db_f6.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\4e9e45f7-177a-4e51-9477-442bf26fc6db_f6.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5261,7 +5261,7 @@
     },
     {
       "Route": "images/57ace519-fb9d-4790-960a-9167ec6b84fd_f3.5kemtzgywk.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\57ace519-fb9d-4790-960a-9167ec6b84fd_f3.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\57ace519-fb9d-4790-960a-9167ec6b84fd_f3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5306,7 +5306,7 @@
     },
     {
       "Route": "images/57ace519-fb9d-4790-960a-9167ec6b84fd_f3.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\57ace519-fb9d-4790-960a-9167ec6b84fd_f3.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\57ace519-fb9d-4790-960a-9167ec6b84fd_f3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5343,7 +5343,7 @@
     },
     {
       "Route": "images/586d48e3-d70b-44d4-97b1-0196dc457cd6_f3.5kemtzgywk.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\586d48e3-d70b-44d4-97b1-0196dc457cd6_f3.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\586d48e3-d70b-44d4-97b1-0196dc457cd6_f3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5388,7 +5388,7 @@
     },
     {
       "Route": "images/586d48e3-d70b-44d4-97b1-0196dc457cd6_f3.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\586d48e3-d70b-44d4-97b1-0196dc457cd6_f3.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\586d48e3-d70b-44d4-97b1-0196dc457cd6_f3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5425,7 +5425,7 @@
     },
     {
       "Route": "images/591c9e61-0c80-479d-8b60-4e4a29e2e916_f1.a37v3p1igw.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\591c9e61-0c80-479d-8b60-4e4a29e2e916_f1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\591c9e61-0c80-479d-8b60-4e4a29e2e916_f1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5470,7 +5470,7 @@
     },
     {
       "Route": "images/591c9e61-0c80-479d-8b60-4e4a29e2e916_f1.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\591c9e61-0c80-479d-8b60-4e4a29e2e916_f1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\591c9e61-0c80-479d-8b60-4e4a29e2e916_f1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5507,7 +5507,7 @@
     },
     {
       "Route": "images/5c10296d-dc6a-4a5c-9a5f-0b64539a9801_f1.a37v3p1igw.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\5c10296d-dc6a-4a5c-9a5f-0b64539a9801_f1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\5c10296d-dc6a-4a5c-9a5f-0b64539a9801_f1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5552,7 +5552,7 @@
     },
     {
       "Route": "images/5c10296d-dc6a-4a5c-9a5f-0b64539a9801_f1.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\5c10296d-dc6a-4a5c-9a5f-0b64539a9801_f1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\5c10296d-dc6a-4a5c-9a5f-0b64539a9801_f1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5589,7 +5589,7 @@
     },
     {
       "Route": "images/5c278353-120e-41ba-a851-cbd745e01286_f1.a37v3p1igw.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\5c278353-120e-41ba-a851-cbd745e01286_f1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\5c278353-120e-41ba-a851-cbd745e01286_f1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5634,7 +5634,7 @@
     },
     {
       "Route": "images/5c278353-120e-41ba-a851-cbd745e01286_f1.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\5c278353-120e-41ba-a851-cbd745e01286_f1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\5c278353-120e-41ba-a851-cbd745e01286_f1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5671,7 +5671,7 @@
     },
     {
       "Route": "images/607a0256-3dcb-40ff-8f57-992ad1701fd6_f1.a37v3p1igw.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\607a0256-3dcb-40ff-8f57-992ad1701fd6_f1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\607a0256-3dcb-40ff-8f57-992ad1701fd6_f1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5716,7 +5716,7 @@
     },
     {
       "Route": "images/607a0256-3dcb-40ff-8f57-992ad1701fd6_f1.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\607a0256-3dcb-40ff-8f57-992ad1701fd6_f1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\607a0256-3dcb-40ff-8f57-992ad1701fd6_f1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5753,7 +5753,7 @@
     },
     {
       "Route": "images/6140a0b2-1fbf-41e8-8b2a-4ad6f38c4b4b_f1.a37v3p1igw.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\6140a0b2-1fbf-41e8-8b2a-4ad6f38c4b4b_f1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\6140a0b2-1fbf-41e8-8b2a-4ad6f38c4b4b_f1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5798,7 +5798,7 @@
     },
     {
       "Route": "images/6140a0b2-1fbf-41e8-8b2a-4ad6f38c4b4b_f1.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\6140a0b2-1fbf-41e8-8b2a-4ad6f38c4b4b_f1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\6140a0b2-1fbf-41e8-8b2a-4ad6f38c4b4b_f1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5835,7 +5835,7 @@
     },
     {
       "Route": "images/6502aab7-4124-45f2-870f-6edd39c361cf_f1.a37v3p1igw.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\6502aab7-4124-45f2-870f-6edd39c361cf_f1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\6502aab7-4124-45f2-870f-6edd39c361cf_f1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5880,7 +5880,7 @@
     },
     {
       "Route": "images/6502aab7-4124-45f2-870f-6edd39c361cf_f1.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\6502aab7-4124-45f2-870f-6edd39c361cf_f1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\6502aab7-4124-45f2-870f-6edd39c361cf_f1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5917,7 +5917,7 @@
     },
     {
       "Route": "images/68dc741e-3f9d-4162-9587-c8149b9a02ba_f1.a37v3p1igw.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\68dc741e-3f9d-4162-9587-c8149b9a02ba_f1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\68dc741e-3f9d-4162-9587-c8149b9a02ba_f1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5962,7 +5962,7 @@
     },
     {
       "Route": "images/68dc741e-3f9d-4162-9587-c8149b9a02ba_f1.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\68dc741e-3f9d-4162-9587-c8149b9a02ba_f1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\68dc741e-3f9d-4162-9587-c8149b9a02ba_f1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5999,7 +5999,7 @@
     },
     {
       "Route": "images/6e55c62c-b936-4c96-a85c-59437f721cc7_f8.3pwgbp9gze.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\6e55c62c-b936-4c96-a85c-59437f721cc7_f8.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\6e55c62c-b936-4c96-a85c-59437f721cc7_f8.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6044,7 +6044,7 @@
     },
     {
       "Route": "images/6e55c62c-b936-4c96-a85c-59437f721cc7_f8.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\6e55c62c-b936-4c96-a85c-59437f721cc7_f8.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\6e55c62c-b936-4c96-a85c-59437f721cc7_f8.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6081,7 +6081,7 @@
     },
     {
       "Route": "images/702c508a-4a4d-4119-9777-3a113be77a24_f3.5kemtzgywk.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\702c508a-4a4d-4119-9777-3a113be77a24_f3.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\702c508a-4a4d-4119-9777-3a113be77a24_f3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6126,7 +6126,7 @@
     },
     {
       "Route": "images/702c508a-4a4d-4119-9777-3a113be77a24_f3.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\702c508a-4a4d-4119-9777-3a113be77a24_f3.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\702c508a-4a4d-4119-9777-3a113be77a24_f3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6163,7 +6163,7 @@
     },
     {
       "Route": "images/894a6669-3b02-42ba-a4ce-74d7005c9bda_n2.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\894a6669-3b02-42ba-a4ce-74d7005c9bda_n2.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\894a6669-3b02-42ba-a4ce-74d7005c9bda_n2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6200,7 +6200,7 @@
     },
     {
       "Route": "images/894a6669-3b02-42ba-a4ce-74d7005c9bda_n2.ka7tkuceto.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\894a6669-3b02-42ba-a4ce-74d7005c9bda_n2.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\894a6669-3b02-42ba-a4ce-74d7005c9bda_n2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6245,7 +6245,7 @@
     },
     {
       "Route": "images/8c578d5d-1b9b-4eea-9769-481a3f4cc859_f1.a37v3p1igw.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\8c578d5d-1b9b-4eea-9769-481a3f4cc859_f1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\8c578d5d-1b9b-4eea-9769-481a3f4cc859_f1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6290,7 +6290,7 @@
     },
     {
       "Route": "images/8c578d5d-1b9b-4eea-9769-481a3f4cc859_f1.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\8c578d5d-1b9b-4eea-9769-481a3f4cc859_f1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\8c578d5d-1b9b-4eea-9769-481a3f4cc859_f1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6327,7 +6327,7 @@
     },
     {
       "Route": "images/95d0138a-ef72-4314-8a5a-d232c1b0057a_f1.a37v3p1igw.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\95d0138a-ef72-4314-8a5a-d232c1b0057a_f1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\95d0138a-ef72-4314-8a5a-d232c1b0057a_f1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6372,7 +6372,7 @@
     },
     {
       "Route": "images/95d0138a-ef72-4314-8a5a-d232c1b0057a_f1.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\95d0138a-ef72-4314-8a5a-d232c1b0057a_f1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\95d0138a-ef72-4314-8a5a-d232c1b0057a_f1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6409,7 +6409,7 @@
     },
     {
       "Route": "images/9a75575d-cc5a-44bf-b0f2-e93acb8f160c_f8.3pwgbp9gze.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\9a75575d-cc5a-44bf-b0f2-e93acb8f160c_f8.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\9a75575d-cc5a-44bf-b0f2-e93acb8f160c_f8.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6454,7 +6454,7 @@
     },
     {
       "Route": "images/9a75575d-cc5a-44bf-b0f2-e93acb8f160c_f8.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\9a75575d-cc5a-44bf-b0f2-e93acb8f160c_f8.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\9a75575d-cc5a-44bf-b0f2-e93acb8f160c_f8.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6491,7 +6491,7 @@
     },
     {
       "Route": "images/9fdcdf56-1071-432d-a3a4-fc21d7deaf3c_f1.a37v3p1igw.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\9fdcdf56-1071-432d-a3a4-fc21d7deaf3c_f1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\9fdcdf56-1071-432d-a3a4-fc21d7deaf3c_f1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6536,7 +6536,7 @@
     },
     {
       "Route": "images/9fdcdf56-1071-432d-a3a4-fc21d7deaf3c_f1.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\9fdcdf56-1071-432d-a3a4-fc21d7deaf3c_f1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\9fdcdf56-1071-432d-a3a4-fc21d7deaf3c_f1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6573,7 +6573,7 @@
     },
     {
       "Route": "images/a43abf74-3240-460a-b0a9-ba70bbb90c77_n2.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\a43abf74-3240-460a-b0a9-ba70bbb90c77_n2.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\a43abf74-3240-460a-b0a9-ba70bbb90c77_n2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6610,7 +6610,7 @@
     },
     {
       "Route": "images/a43abf74-3240-460a-b0a9-ba70bbb90c77_n2.ka7tkuceto.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\a43abf74-3240-460a-b0a9-ba70bbb90c77_n2.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\a43abf74-3240-460a-b0a9-ba70bbb90c77_n2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6655,7 +6655,7 @@
     },
     {
       "Route": "images/a699080f-ae2c-4b7d-a929-f7512555602f_f3.5kemtzgywk.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\a699080f-ae2c-4b7d-a929-f7512555602f_f3.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\a699080f-ae2c-4b7d-a929-f7512555602f_f3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6700,7 +6700,7 @@
     },
     {
       "Route": "images/a699080f-ae2c-4b7d-a929-f7512555602f_f3.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\a699080f-ae2c-4b7d-a929-f7512555602f_f3.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\a699080f-ae2c-4b7d-a929-f7512555602f_f3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6737,7 +6737,7 @@
     },
     {
       "Route": "images/ad60c330-66b7-4568-879d-6dc883cf67b7_f1.a37v3p1igw.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\ad60c330-66b7-4568-879d-6dc883cf67b7_f1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\ad60c330-66b7-4568-879d-6dc883cf67b7_f1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6782,7 +6782,7 @@
     },
     {
       "Route": "images/ad60c330-66b7-4568-879d-6dc883cf67b7_f1.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\ad60c330-66b7-4568-879d-6dc883cf67b7_f1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\ad60c330-66b7-4568-879d-6dc883cf67b7_f1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6819,7 +6819,7 @@
     },
     {
       "Route": "images/b538f7cb-61aa-4871-8f6d-3964017ea058_f6.2kxfjer0tn.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\b538f7cb-61aa-4871-8f6d-3964017ea058_f6.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\b538f7cb-61aa-4871-8f6d-3964017ea058_f6.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6864,7 +6864,7 @@
     },
     {
       "Route": "images/b538f7cb-61aa-4871-8f6d-3964017ea058_f6.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\b538f7cb-61aa-4871-8f6d-3964017ea058_f6.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\b538f7cb-61aa-4871-8f6d-3964017ea058_f6.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6901,7 +6901,7 @@
     },
     {
       "Route": "images/baca7b9b-6acf-4320-94cf-a941a082224c_n2.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\baca7b9b-6acf-4320-94cf-a941a082224c_n2.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\baca7b9b-6acf-4320-94cf-a941a082224c_n2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6938,7 +6938,7 @@
     },
     {
       "Route": "images/baca7b9b-6acf-4320-94cf-a941a082224c_n2.ka7tkuceto.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\baca7b9b-6acf-4320-94cf-a941a082224c_n2.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\baca7b9b-6acf-4320-94cf-a941a082224c_n2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6983,7 +6983,7 @@
     },
     {
       "Route": "images/bf6f1eee-42b7-477a-9597-4f82652a56c5_f1.a37v3p1igw.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\bf6f1eee-42b7-477a-9597-4f82652a56c5_f1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\bf6f1eee-42b7-477a-9597-4f82652a56c5_f1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7028,7 +7028,7 @@
     },
     {
       "Route": "images/bf6f1eee-42b7-477a-9597-4f82652a56c5_f1.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\bf6f1eee-42b7-477a-9597-4f82652a56c5_f1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\bf6f1eee-42b7-477a-9597-4f82652a56c5_f1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7065,7 +7065,7 @@
     },
     {
       "Route": "images/c0f75d07-4e3e-4379-82e6-6413b6ea61be_f1.a37v3p1igw.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\c0f75d07-4e3e-4379-82e6-6413b6ea61be_f1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\c0f75d07-4e3e-4379-82e6-6413b6ea61be_f1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7110,7 +7110,7 @@
     },
     {
       "Route": "images/c0f75d07-4e3e-4379-82e6-6413b6ea61be_f1.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\c0f75d07-4e3e-4379-82e6-6413b6ea61be_f1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\c0f75d07-4e3e-4379-82e6-6413b6ea61be_f1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7147,7 +7147,7 @@
     },
     {
       "Route": "images/c3c17517-ae61-47c9-a181-d9cc5b730d9c_f8.3pwgbp9gze.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\c3c17517-ae61-47c9-a181-d9cc5b730d9c_f8.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\c3c17517-ae61-47c9-a181-d9cc5b730d9c_f8.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7192,7 +7192,7 @@
     },
     {
       "Route": "images/c3c17517-ae61-47c9-a181-d9cc5b730d9c_f8.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\c3c17517-ae61-47c9-a181-d9cc5b730d9c_f8.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\c3c17517-ae61-47c9-a181-d9cc5b730d9c_f8.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7229,7 +7229,7 @@
     },
     {
       "Route": "images/cbe7c4da-96ce-407f-9933-5597f4cb5498_f1.a37v3p1igw.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\cbe7c4da-96ce-407f-9933-5597f4cb5498_f1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\cbe7c4da-96ce-407f-9933-5597f4cb5498_f1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7274,7 +7274,7 @@
     },
     {
       "Route": "images/cbe7c4da-96ce-407f-9933-5597f4cb5498_f1.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\cbe7c4da-96ce-407f-9933-5597f4cb5498_f1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\cbe7c4da-96ce-407f-9933-5597f4cb5498_f1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7311,7 +7311,7 @@
     },
     {
       "Route": "images/d5d7ab1a-debf-4818-801a-5f5ac95ecaa4_f1.a37v3p1igw.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\d5d7ab1a-debf-4818-801a-5f5ac95ecaa4_f1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\d5d7ab1a-debf-4818-801a-5f5ac95ecaa4_f1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7356,7 +7356,7 @@
     },
     {
       "Route": "images/d5d7ab1a-debf-4818-801a-5f5ac95ecaa4_f1.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\d5d7ab1a-debf-4818-801a-5f5ac95ecaa4_f1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\d5d7ab1a-debf-4818-801a-5f5ac95ecaa4_f1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7393,7 +7393,7 @@
     },
     {
       "Route": "images/d9da16cd-8841-4c11-8363-4ca4937681c3_f1.a37v3p1igw.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\d9da16cd-8841-4c11-8363-4ca4937681c3_f1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\d9da16cd-8841-4c11-8363-4ca4937681c3_f1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7438,7 +7438,7 @@
     },
     {
       "Route": "images/d9da16cd-8841-4c11-8363-4ca4937681c3_f1.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\d9da16cd-8841-4c11-8363-4ca4937681c3_f1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\d9da16cd-8841-4c11-8363-4ca4937681c3_f1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7475,7 +7475,7 @@
     },
     {
       "Route": "images/eb89396e-6c94-4d8e-939c-4e32326814e9_f1.a37v3p1igw.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\eb89396e-6c94-4d8e-939c-4e32326814e9_f1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\eb89396e-6c94-4d8e-939c-4e32326814e9_f1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7520,7 +7520,7 @@
     },
     {
       "Route": "images/eb89396e-6c94-4d8e-939c-4e32326814e9_f1.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\eb89396e-6c94-4d8e-939c-4e32326814e9_f1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\eb89396e-6c94-4d8e-939c-4e32326814e9_f1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7557,7 +7557,7 @@
     },
     {
       "Route": "images/f56f6501-b9ec-4318-bd90-23b78a6692e8_c3c17517-ae61-47c9-a181-d9cc5b730d9c_f8.3pwgbp9gze.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\f56f6501-b9ec-4318-bd90-23b78a6692e8_c3c17517-ae61-47c9-a181-d9cc5b730d9c_f8.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\f56f6501-b9ec-4318-bd90-23b78a6692e8_c3c17517-ae61-47c9-a181-d9cc5b730d9c_f8.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7602,7 +7602,7 @@
     },
     {
       "Route": "images/f56f6501-b9ec-4318-bd90-23b78a6692e8_c3c17517-ae61-47c9-a181-d9cc5b730d9c_f8.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\f56f6501-b9ec-4318-bd90-23b78a6692e8_c3c17517-ae61-47c9-a181-d9cc5b730d9c_f8.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\f56f6501-b9ec-4318-bd90-23b78a6692e8_c3c17517-ae61-47c9-a181-d9cc5b730d9c_f8.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7639,7 +7639,7 @@
     },
     {
       "Route": "images/f955af97-4dc9-4ec0-af4a-a20baa9a4b48_f1.a37v3p1igw.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\f955af97-4dc9-4ec0-af4a-a20baa9a4b48_f1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\f955af97-4dc9-4ec0-af4a-a20baa9a4b48_f1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7684,7 +7684,7 @@
     },
     {
       "Route": "images/f955af97-4dc9-4ec0-af4a-a20baa9a4b48_f1.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\f955af97-4dc9-4ec0-af4a-a20baa9a4b48_f1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\f955af97-4dc9-4ec0-af4a-a20baa9a4b48_f1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7721,7 +7721,7 @@
     },
     {
       "Route": "images/fcd47d19-3dfc-487f-9492-bd83f7120bd5_f1.a37v3p1igw.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\fcd47d19-3dfc-487f-9492-bd83f7120bd5_f1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\fcd47d19-3dfc-487f-9492-bd83f7120bd5_f1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7766,7 +7766,7 @@
     },
     {
       "Route": "images/fcd47d19-3dfc-487f-9492-bd83f7120bd5_f1.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\images\\fcd47d19-3dfc-487f-9492-bd83f7120bd5_f1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\images\\fcd47d19-3dfc-487f-9492-bd83f7120bd5_f1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7803,7 +7803,7 @@
     },
     {
       "Route": "logo.pfyr3hsfd0.png",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\logo.png",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\logo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7848,7 +7848,7 @@
     },
     {
       "Route": "logo.png",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\logo.png",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\logo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7885,7 +7885,7 @@
     },
     {
       "Route": "n1.0ae6oab229.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\n1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\n1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7930,7 +7930,7 @@
     },
     {
       "Route": "n1.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\n1.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\n1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7967,7 +7967,7 @@
     },
     {
       "Route": "n2.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\n2.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\n2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8004,7 +8004,7 @@
     },
     {
       "Route": "n2.ka7tkuceto.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\n2.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\n2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8049,7 +8049,7 @@
     },
     {
       "Route": "n3.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\n3.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\n3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8086,7 +8086,7 @@
     },
     {
       "Route": "n3.tp1rw3m2i0.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\n3.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\n3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8131,7 +8131,7 @@
     },
     {
       "Route": "n4.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\n4.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\n4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8168,7 +8168,7 @@
     },
     {
       "Route": "n4.zexglbyufb.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\n4.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\n4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8213,7 +8213,7 @@
     },
     {
       "Route": "n5.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\n5.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\n5.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8250,7 +8250,7 @@
     },
     {
       "Route": "n5.kedfeqltn2.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\n5.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\n5.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8295,7 +8295,7 @@
     },
     {
       "Route": "n6.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\n6.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\n6.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8332,7 +8332,7 @@
     },
     {
       "Route": "n6.k74gjdhazi.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\n6.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\n6.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8377,7 +8377,7 @@
     },
     {
       "Route": "n7.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\n7.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\n7.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8414,7 +8414,7 @@
     },
     {
       "Route": "n7.mtt6syfsb7.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\n7.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\n7.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8459,7 +8459,7 @@
     },
     {
       "Route": "n8.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\n8.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\n8.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8496,7 +8496,7 @@
     },
     {
       "Route": "n8.zoc9qu2jpf.jpg",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\n8.jpg",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\n8.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8541,7 +8541,7 @@
     },
     {
       "Route": "order-service.js",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\pa3pem1xi5-ki7u9y4fec.gz",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\pa3pem1xi5-ki7u9y4fec.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -8596,7 +8596,7 @@
     },
     {
       "Route": "order-service.js",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\order-service.js",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\order-service.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8633,7 +8633,7 @@
     },
     {
       "Route": "order-service.js.gz",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\pa3pem1xi5-ki7u9y4fec.gz",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\pa3pem1xi5-ki7u9y4fec.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8678,7 +8678,7 @@
     },
     {
       "Route": "order-service.ki7u9y4fec.js",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\pa3pem1xi5-ki7u9y4fec.gz",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\pa3pem1xi5-ki7u9y4fec.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -8741,7 +8741,7 @@
     },
     {
       "Route": "order-service.ki7u9y4fec.js",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\order-service.js",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\order-service.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8786,7 +8786,7 @@
     },
     {
       "Route": "order-service.ki7u9y4fec.js.gz",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\pa3pem1xi5-ki7u9y4fec.gz",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\pa3pem1xi5-ki7u9y4fec.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8839,7 +8839,7 @@
     },
     {
       "Route": "product-detail.es6jc3htb9.html",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\ivfctrvdmv-es6jc3htb9.gz",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\ivfctrvdmv-es6jc3htb9.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -8902,7 +8902,7 @@
     },
     {
       "Route": "product-detail.es6jc3htb9.html",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\product-detail.html",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\product-detail.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8947,7 +8947,7 @@
     },
     {
       "Route": "product-detail.es6jc3htb9.html.gz",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\ivfctrvdmv-es6jc3htb9.gz",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\ivfctrvdmv-es6jc3htb9.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9000,7 +9000,7 @@
     },
     {
       "Route": "product-detail.html",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\ivfctrvdmv-es6jc3htb9.gz",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\ivfctrvdmv-es6jc3htb9.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -9055,7 +9055,7 @@
     },
     {
       "Route": "product-detail.html",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\product-detail.html",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\product-detail.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9092,7 +9092,7 @@
     },
     {
       "Route": "product-detail.html.gz",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\ivfctrvdmv-es6jc3htb9.gz",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\ivfctrvdmv-es6jc3htb9.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9137,7 +9137,7 @@
     },
     {
       "Route": "style.css",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\1tlj3jrtxz-zfrqedqh08.gz",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\1tlj3jrtxz-zfrqedqh08.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -9192,7 +9192,7 @@
     },
     {
       "Route": "style.css",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\style.css",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9229,7 +9229,7 @@
     },
     {
       "Route": "style.css.gz",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\1tlj3jrtxz-zfrqedqh08.gz",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\1tlj3jrtxz-zfrqedqh08.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9274,7 +9274,7 @@
     },
     {
       "Route": "style.zfrqedqh08.css",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\1tlj3jrtxz-zfrqedqh08.gz",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\1tlj3jrtxz-zfrqedqh08.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -9337,7 +9337,7 @@
     },
     {
       "Route": "style.zfrqedqh08.css",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\wwwroot\\style.css",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\wwwroot\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9382,7 +9382,7 @@
     },
     {
       "Route": "style.zfrqedqh08.css.gz",
-      "AssetFile": "E:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\1tlj3jrtxz-zfrqedqh08.gz",
+      "AssetFile": "e:\\E-commerce\\EcommerceApi\\obj\\Debug\\net9.0\\compressed\\1tlj3jrtxz-zfrqedqh08.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
